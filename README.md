@@ -4,6 +4,7 @@ I will integrate some visualizations below
 
 ### Tableau
 
+Hey Grace, my laptop is in the repair shop (water spill). I don't have access to my Tableau images as they were stored locally in my laptop. I did get the embeddings on observerables since everything is stored in the Cloud. Sorry about the inconvenience
 
 ### Vega-Lite
 <iframe width="100%" height="342" frameborder="0"
