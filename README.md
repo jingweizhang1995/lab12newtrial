@@ -7,7 +7,7 @@ I will integrate some visualizations below
 
 ### Vega-Lite
 <iframe width="100%" height="342" frameborder="0"
-  src="https://observablehq.com/embed/@jingweizhang1995/vega-lite-assignment?cells=ex3"></iframe>
+  src="https://observablehq.com/embed/@jingweizhang1995/vega-lite-assignment?cells=ex3"></iframe> 
  
 ### D3
 <iframe width="100%" height="384" frameborder="0"
